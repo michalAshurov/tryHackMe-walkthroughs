@@ -1,0 +1,6 @@
+### Room: What is Networking?  
+**Platform:** TryHackMe  
+**Goal:** Learn how devices connect and communicate within networks.  
+**TL;DR:** Covered the basics of computer networking — what a network is, how the Internet works, IP and MAC addressing, and using `ping` to test connectivity.  
+**Key Topics:** Networks, Internet, IP Address, MAC Address, ICMP (Ping).  
+**Impact:** Built foundational understanding of how data travels between devices.  
