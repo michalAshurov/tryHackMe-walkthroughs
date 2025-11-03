@@ -1,0 +1,5 @@
+### Room: Defensive Security Intro
+**Platform:** TryHackMe  
+**Goal:** Learn Blue Team fundamentals and SOC workflow.  
+**TL;DR:** Investigated simulated alerts in a SIEM and identified the flag **THREAT-BLOCKED**.  
+**Evidence:** Correlated failed logins and malicious executable events to detect the threat.
