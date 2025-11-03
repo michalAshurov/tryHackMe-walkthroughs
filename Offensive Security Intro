@@ -1,0 +1,7 @@
+### Room: Offensive Security Intro
+**Platform:** TryHackMe  
+**Tool:** Gobuster  
+**Goal:** Find hidden directories on a vulnerable site.  
+**TL;DR:** Used Gobuster to discover `/bank-transfer`, a hidden page allowing unauthorized transfers.  
+**Evidence:** Command output confirmed HTTP 200 status for `/bank-transfer`.  
+**Impact:** High — sensitive endpoint publicly exposed.
