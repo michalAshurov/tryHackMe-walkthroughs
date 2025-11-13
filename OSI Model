@@ -1,0 +1,6 @@
+### Room: OSI Model  
+**Platform:** TryHackMe  
+**Goal:** Learn about the 7 layers of the OSI Model.  
+**TL;DR:** Covered the 7 layers order (from 1 to 7), and what each layer containe.  
+**Key Topics:** OSI model, Physical layer, Data Link layer, Network layer, Transort layer, Session layer, Presentation layer, Application layer.  
+**Impact:** Built understanding of how OSI model provides a framework dictating how all networked devices will send, receive and interpret data.  
