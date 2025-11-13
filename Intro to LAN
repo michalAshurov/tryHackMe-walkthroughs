@@ -1,0 +1,6 @@
+### Room: Intro to LAN  
+**Platform:** TryHackMe  
+**Goal:** Learn about some of the technologies and designs that power private networks.  
+**TL;DR:** Explored different LAN topologies, how switches and routers operate, the concept and purpose of subnetting, and how ARP and DHCP work in practice.
+**Key Topics:** topologies, switch, Router, subnetting, ARP, DHCP.  
+**Impact:**  Strengthened my understanding of how devices communicate within private networks.
